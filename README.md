@@ -16,13 +16,3 @@ My focus is on **learning by doing** — using real code, real problems, and rea
 
 ---
 
-## 🚧 Learning Plan
-
-I’m currently learning AI with **3 hours of study per day**, and publishing **one project every week** to:
-- Build my portfolio
-- Deepen my understanding of concepts
-- Share my progress on GitHub and LinkedIn
-- Prepare for remote junior roles in AI
-
----
-
